@@ -1,7 +1,7 @@
 {
   "name": "@foxswap/core",
   "description": "🎛 Core contracts for the FOX exchanges",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://farmersonly.fi",
   "repository": {
     "type": "git",
